@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import './AI.css';
+import '../styles/AI.css';
 
 // Placeholder function for AI model interaction
 const AIModelInteraction = () => {
