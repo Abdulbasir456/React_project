@@ -61,6 +61,7 @@ const Register = () => {
     }
   };
 
+
   return (
     <div className="register-body">
       <div className="register-container">
